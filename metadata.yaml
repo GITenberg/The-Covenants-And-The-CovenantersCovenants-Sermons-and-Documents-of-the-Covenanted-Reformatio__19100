@@ -1,0 +1,30 @@
+_repo: The-Covenants-And-The-CovenantersCovenants-Sermons-and-Documents-of-the-Covenanted-Reformatio__19100
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Kerr, James
+    birthdate: 1847
+    deathdate: 1905
+    gutenberg_agent_id: '8465'
+    url: http://www.gutenberg.org/2009/agents/8465
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2006-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Covenanters -- Scotland -- History -- Sources'
+- !lcsh 'Presbyterian Church -- Scotland -- History -- Sources'
+title: 'The Covenants And The Covenanters
+
+  Covenants, Sermons, and Documents of the Covenanted Reformation'
+url: http://www.gutenberg.org/ebooks/19100
